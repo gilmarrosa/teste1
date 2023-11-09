@@ -9,3 +9,7 @@ hist(xy)
 
 library(geobr)
 library(ggplot2)
+
+xx<-rnorm(200)
+yy<-rnorm(200)
+plot(xx,yy)
